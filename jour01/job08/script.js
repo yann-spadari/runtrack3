@@ -1,7 +1,6 @@
 
 function sommenombrespremiers(a, b) {
 
-    // check if number is equal to 1
     if (a > 1 && b > 1) {
 
         for (let i = 2; i < a; i++) {
@@ -23,6 +22,9 @@ function sommenombrespremiers(a, b) {
                         break;
                     }
                 }
+
+
+                
 
             }
 
